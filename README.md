@@ -2,6 +2,8 @@
 
 ## 🚨 ADVERTENCIA MÉDICA / LEGAL
 
+> ⚠️ **ADVERTENCIA:** Solo para investigación en salud ósea. NO usar para cáncer. Sistema experimental.
+
 # 🦴 OsteoFlux  
 ### **Sistema Open-Source de Vibración Adaptativa para Salud Ósea**
 
