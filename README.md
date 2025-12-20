@@ -188,9 +188,9 @@ ANMAT/INVIMA para América Latina
 ## 👥 EQUIPO:
 
 Liderazgo Técnico:
-Ing. [Tu Nombre]: Arquitectura de software, IA médica
+Ing. [Enrique Aguayo Rodriguez]: Arquitectura de software, IA médica
 
-Dr. [Nombre]: Validación clínica, protocolos médicos
+Validación clínica, protocolos médicos
 
 Colaboradores:
 
@@ -257,21 +257,6 @@ Estudios Clínicos
 Validación Técnica
 
 Comparativas con Software Comercial
-
-## 📞 CONTACTO:
-Comunicación:
-Issues GitHub: Para problemas técnicos
-
-Discussions: Para debates médicos/técnicos
-
-Email: contacto@ostoflux.org (propósito educativo)
-
-Redes:
-Twitter: @OstoFlux
-
-LinkedIn: OstoFlux Project
-
-YouTube: Tutoriales y demostraciones
 
 ## ⚠️ ADVERTENCIA IMPORTANTE:
 OstoFlux es software en desarrollo. No debe usarse para diagnóstico clínico sin supervisión médica profesional. Siempre consulte con un radiólogo calificado para interpretación de estudios DXA.
