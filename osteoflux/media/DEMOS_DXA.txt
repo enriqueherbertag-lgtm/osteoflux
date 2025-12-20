@@ -1,0 +1,304 @@
+ENLACES DE DEMOSTRACIÓN - Sistema DXA + Vibración
+DEMOS TÉCNICAS
+1. Demo Básica - Funcionamiento del Sistema
+Duración: 2 minutos
+Contenido:
+
+Mostrar hardware completo (ESP32 + motor + interfaz)
+
+Proceso de recepción datos DXA (simulado)
+
+Cálculo automático de frecuencia
+
+Motor vibrando a frecuencia calculada
+
+Display mostrando parámetros en tiempo real
+
+Enlace: [PENDIENTE - YouTube/OsteoFlux]
+
+2. Demo Técnica - Construcción del Hardware
+Duración: 4 minutos
+Contenido:
+
+Componentes individuales (lista BOM)
+
+Conexiones paso a paso
+
+Programación del ESP32
+
+Calibración del sistema
+
+Pruebas de funcionamiento
+
+Enlace: [PENDIENTE - YouTube/OsteoFlux]
+
+3. Demo Software - Análisis DXA + Cálculo Frecuencia
+Duración: 3 minutos
+Contenido:
+
+Carga archivo DICOM DXA
+
+Extracción automática BMD, T-score
+
+Algoritmo cálculo frecuencia óptima
+
+Visualización resultados
+
+Exportación protocolo tratamiento
+
+Enlace: [PENDIENTE - GitHub/Gist]
+
+DEMOS CLÍNICAS
+4. Demo Clínica - Caso de Uso Real
+Duración: 3 minutos
+Contenido:
+
+Paciente con osteoporosis (T-score: -3.0)
+
+Datos DXA reales (anonimizados)
+
+Cálculo frecuencia: 40 Hz
+
+Sesión de tratamiento simulada
+
+Explicación beneficios personalización
+
+Enlace: [PENDIENTE - Sitio web proyecto]
+
+5. Demo Comparativa - Frecuencia Fija vs. Adaptativa
+Duración: 2.5 minutos
+Contenido:
+
+Comparación: Dispositivo comercial (35 Hz fijo)
+
+vs. Nuestro sistema (40 Hz personalizado)
+
+Explicación por qué personalización mejora resultados
+
+Datos simulados de eficacia
+
+Enlace: [PENDIENTE - Twitter/X thread]
+
+TUTORIALES
+6. Tutorial 1 - Instalación Software
+Duración: 5 minutos
+Secciones:
+
+0:00 - Requisitos sistema
+
+1:15 - Instalación Python y dependencias
+
+2:30 - Configuración entorno virtual
+
+3:45 - Pruebas básicas
+
+4:30 - Solución problemas comunes
+
+Enlace: [PENDIENTE - GitHub Wiki]
+
+7. Tutorial 2 - Configuración Hardware
+Duración: 6 minutos
+Secciones:
+
+0:00 - Lista componentes
+
+1:30 - Diagrama conexiones
+
+2:45 - Soldado componentes
+
+4:00 - Programación ESP32
+
+5:15 - Calibración inicial
+
+Enlace: [PENDIENTE - YouTube]
+
+8. Tutorial 3 - Uso Clínico
+Duración: 4 minutos
+Secciones:
+
+0:00 - Introducción datos DXA
+
+1:20 - Ingreso parámetros paciente
+
+2:30 - Configuración sesión
+
+3:15 - Monitoreo durante tratamiento
+
+3:50 - Exportación datos sesión
+
+Enlace: [PENDIENTE - Sitio web]
+
+PRESENTACIONES
+9. Presentación Científica
+Duración: 10 minutos
+Audiencia: Congreso ortopedia/reumatología
+Contenido:
+
+Bases científicas (Ley de Wolff, estudios WBV)
+
+Innovación: Personalización por DXA
+
+Resultados preliminares
+
+Futuras direcciones investigación
+
+Enlace: [PENDIENTE - SlideShare/Google Slides]
+
+10. Presentación Técnica
+Duración: 8 minutos
+Audiencia: Ingenieros biomédicos
+Contenido:
+
+Arquitectura sistema
+
+Especificaciones técnicas
+
+Algoritmo adaptativo
+
+Integración con sistemas existentes
+
+Enlace: [PENDIENTE - GitHub README]
+
+VIDEOS CORTOS (Redes Sociales)
+11. Reel/TikTok 1 - "¿Cómo funciona?"
+Duración: 60 segundos
+Contenido rápido:
+
+0-10s: Problema (osteoporosis, tratamientos genéricos)
+
+10-30s: Solución (personalización con DXA)
+
+30-50s: Demostración rápida
+
+50-60s: Llamado a acción
+
+Plataformas: Instagram Reels, TikTok, Twitter/X
+
+12. Reel/TikTok 2 - "Construye el tuyo"
+Duración: 45 segundos
+Contenido rápido:
+
+Montaje time-lapse del hardware
+
+Código en pantalla
+
+Motor funcionando
+
+Enlace a tutorial completo
+
+Plataformas: Instagram Reels, TikTok
+
+RECURSOS DESCARGABLES
+13. Datos de Prueba
+Archivos DICOM DXA simulados (anonimizados)
+
+CSV con datos pacientes ejemplo
+
+Scripts Python para análisis
+
+Enlace: [PENDIENTE - GitHub /data folder]
+
+14. Código Fuente
+Firmware ESP32 completo
+
+Software Python de análisis
+
+Ejemplos de integración
+
+Enlace: [PENDIENTE - GitHub repository]
+
+15. Documentación
+Manual de usuario PDF
+
+Guía técnica para desarrolladores
+
+Protocolo clínico
+
+Enlace: [PENDIENTE - GitHub /docs folder]
+
+ENLACES TEMPORALES (para actualizar)
+Plataformas Principales:
+YouTube Channel: https://youtube.com/@OsteoFluxProject [CREAR]
+
+GitHub Repository: https://github.com/tu-usuario/ostoflux [ACTUAL]
+
+Twitter/X: https://twitter.com/OsteoFlux [CREAR]
+
+Sitio Web: https://ostoflux.org [CREAR]
+
+Canales Secundarios:
+LinkedIn Page: OsteoFlux Project [CREAR]
+
+Instagram: @osteoflux_project [CREAR]
+
+Discord Server: [CREAR para comunidad]
+
+ResearchGate: Proyecto OsteoFlux [CREAR]
+
+CRONOGRAMA DE PRODUCCIÓN
+Fase 1 (Mes 1):
+Demo 1 (Funcionamiento básico)
+
+Tutorial 1 (Instalación software)
+
+Reel 1 (Redes sociales)
+
+Fase 2 (Mes 2):
+Demo 2 (Construcción hardware)
+
+Tutorial 2 (Configuración hardware)
+
+Presentación científica (slides)
+
+Fase 3 (Mes 3):
+Demo 3 (Software análisis)
+
+Tutorial 3 (Uso clínico)
+
+Presentación técnica
+
+Fase 4 (Mes 4):
+Demo 4 (Caso clínico real)
+
+Demo 5 (Comparativa)
+
+Recursos descargables
+
+CRÉDITOS
+Producción:
+Narración: [Tu nombre / equipo]
+
+Grabación: [Equipo técnico]
+
+Edición: [Equipo multimedia]
+
+Animaciones: [Diseñador/animador]
+
+Contenido Técnico:
+Supervisión médica: Dr. [Nombre] - Ortopedia
+
+Supervisión ingenieril: Ing. [Nombre] - Biomédica
+
+Validación clínica: [Hospital/institución]
+
+Música y Audio:
+Música: Biblioteca libre YouTube Audio
+
+Efectos sonido: Libre de derechos
+
+Licencia: Creative Commons donde aplique
+
+NOTAS IMPORTANTES
+Consentimiento pacientes: Todos los datos clínicos anonimizados
+
+Declaraciones éticas: Incluir en descripción de videos
+
+Aviso legal: "Para fines demostrativos, consultar médico"
+
+Accesibilidad: Incluir subtítulos en todos los videos
+
+Actualizaciones: Mantener enlaces actualizados
+
+Estado: Planificación
+Última actualización: Diciembre 2025
+Próxima revisión: Enero 2026
