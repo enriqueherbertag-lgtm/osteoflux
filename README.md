@@ -1,5 +1,5 @@
 
-# 🦴 OstoFlux  
+# OstoFlux  
 ### **Sistema Open-Source de Análisis DXA para Salud Ósea**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -9,7 +9,7 @@
 
 ---
 
-## 🔬 **EL PROBLEMA REAL:**
+## **EL PROBLEMA REAL:**
 Los análisis de densitometría DXA (Dual-Energy X-ray Absorptiometry) dependen de:
 - **Interpretación subjetiva** del radiólogo
 - **Falta de estandarización** entre equipos diferentes
@@ -19,7 +19,7 @@ Los análisis de densitometría DXA (Dual-Energy X-ray Absorptiometry) dependen 
 **Resultado:** Diagnósticos inconsistentes y acceso limitado a poblaciones vulnerables.
 
 
-## 🎯 **NUESTRA SOLUCIÓN (QUE NADIE MÁS TIENE):**
+## **NUESTRA SOLUCIÓN (QUE NADIE MÁS TIENE):**
 **Procesamiento DXA automatizado + IA para diagnóstico consistente:**
 1. **Procesamiento DICOM:** Análisis automatizado de imágenes DXA
 2. **Algoritmos IA:** Cálculo preciso de densidad mineral ósea (BMD)
@@ -27,7 +27,7 @@ Los análisis de densitometría DXA (Dual-Energy X-ray Absorptiometry) dependen 
 4. **Seguimiento temporal:** Comparación automática entre estudios
 
 
-## ⚙️ **CÓMO FUNCIONA:**
+## **CÓMO FUNCIONA:**
 
 
 ```python
@@ -56,7 +56,7 @@ def analizar_dxa(imagen_dicom):
 
 
 
-## 📊 **TECNOLOGÍA:**
+## **TECNOLOGÍA:**
 
 Backend (Procesamiento DXA):
 Python 3.9+ con OpenCV, PyDICOM, NumPy
@@ -85,7 +85,7 @@ Recordatorios de estudios
 
 Educación sobre salud ósea
 
-## 🏥 APLICACIONES CLÍNICAS:
+## APLICACIONES CLÍNICAS:
 
 1. Diagnóstico Precoz de Osteoporosis:
 Detección automática de BMD bajo
@@ -108,9 +108,9 @@ Análisis poblacional de riesgo
 
 Identificación de patrones epidemiológicos
 
-## 🚀 ESTADO ACTUAL DEL PROYECTO:
+## ESTADO ACTUAL DEL PROYECTO:
 
-✅ COMPLETADO:
+COMPLETADO:
 Arquitectura base del sistema
 
 Parser de archivos DICOM DXA
@@ -119,7 +119,7 @@ Cálculos básicos de BMD
 
 Dashboard médico básico
 
-## 🔧 EN DESARROLLO:
+## EN DESARROLLO:
 
 Modelos de IA para segmentación ósea
 
@@ -129,7 +129,7 @@ Integración PACS/HIS
 
 Certificación reguladora (FDA/CE)
 
-## 📅 PRÓXIMOS HITOS:
+## PRÓXIMOS HITOS:
 
 Q1 2024: MVP con análisis básico
 
@@ -139,7 +139,7 @@ Q3 2024: Versión 1.0 estable
 
 Q4 2024: Proceso de certificación
 
-## 📈 IMPACTO POTENCIAL:
+## IMPACTO POTENCIAL:
 
 Para Pacientes:
 Diagnóstico más rápido (minutos vs días)
@@ -168,7 +168,7 @@ Datos poblacionales para políticas públicas
 
 Acceso equitativo a tecnología diagnóstica
 
-## 🏛️ CUMPLIMIENTO REGULATORIO:
+## CUMPLIMIENTO REGULATORIO:
 Estándares Implementados:
 DICOM 3.0 para imágenes médicas
 
@@ -185,7 +185,7 @@ CE Mark (Dispositivo médico)
 
 ANMAT/INVIMA para América Latina
 
-## 👥 EQUIPO:
+## EQUIPO:
 
 Liderazgo Técnico:
 Ing. [Enrique Aguayo Rodriguez]: Arquitectura de software, IA médica
@@ -202,7 +202,7 @@ Especialistas en regulación
 
 Diseñadores UX médicos
 
-## 💰 MODELO DE SUSTENTABILIDAD:
+## MODELO DE SUSTENTABILIDAD:
 
 Versión Comunitaria (Gratuita):
 Análisis DXA básico
@@ -220,7 +220,7 @@ Soporte y certificación
 
 Para hospitales y clínicas
 
-## 🤝 CONTRIBUCIONES:
+## CONTRIBUCIONES:
 
 Buscamos:
 Radiólogos para validación clínica
@@ -240,7 +240,7 @@ Validación Clínica: Probar con datos reales
 
 Documentación: Mejorar guías y tutoriales
 
-## 📚 RECURSOS:
+## RECURSOS:
 
 Documentación Técnica:
 Guía de Instalación
@@ -258,5 +258,5 @@ Validación Técnica
 
 Comparativas con Software Comercial
 
-## ⚠️ ADVERTENCIA IMPORTANTE:
+## ADVERTENCIA IMPORTANTE:
 OstoFlux es software en desarrollo. No debe usarse para diagnóstico clínico sin supervisión médica profesional. Siempre consulte con un radiólogo calificado para interpretación de estudios DXA.
