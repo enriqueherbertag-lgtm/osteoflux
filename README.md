@@ -49,12 +49,26 @@ Este proyecto se comparte con fines de investigación y avance científico abier
 - Cualquier actividad que genere ingresos directa o indirectamente a partir de esta tecnología.
 
 ### ¿Interesado en una licencia comercial?
-Contacta al autor para discutir:
-- **Licencias de desarrollo**
-- **Acuerdos de colaboración I+D**
-- **Transferencia tecnológica**
-- **Modelos de regalías**
+## 📄 Licencias
 
+Este proyecto utiliza un sistema de licenciamiento dual:
+
+### Para código y firmware:
+
+**[Licencia Apache 2.0 con Restricción Comercial](LICENSE)**  
+- Uso académico y de investigación permitido
+- Uso comercial requiere autorización expresa
+
+### Para documentación, modelos y contenido:
+
+**[Licencia CC BY-NC-ND 4.0](LICENSE_DOCS.md)**  
+- Atribución obligatoria
+- No comercial
+- Sin obras derivadas
+
+### ¿Interesado en uso comercial?
+
+Consulta nuestro [formulario de solicitud de licencia comercial](LICENSE_COMMERCIAL_INQUIRY.md) o revisa los [términos generales de uso](legal/TERMINOS_USO.md).
 **Contacto para licenciamiento:**  
 eaguayo@migst.cl  
 [ORCID: 0009-0004-4615-6825](https://orcid.org/0009-0004-4615-6825)
