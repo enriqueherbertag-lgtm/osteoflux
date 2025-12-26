@@ -20,10 +20,11 @@ Servir como marco de referencia conceptual y técnico para futuros proyectos de 
 
 ## Estructura del Repositorio
 
-/docs/          → Documentación técnica y conceptual del proyecto.
-/concepts/      → Modelos, diagramas de flujo y esquemas del sistema integrado.
-/references/    → Artículos científicos y material de investigación relevante.
-Estado Actual y Objetivo
+-/docs/          → Documentación técnica y conceptual del proyecto.
+-/concepts/      → Modelos, diagramas de flujo y esquemas del sistema integrado.
+-/references/    → Artículos científicos y material de investigación relevante.
+
+## Estado Actual y Objetivo
 El proyecto se encuentra en su fase inicial de modelado conceptual y arquitectónico. El objetivo inmediato es publicar estos fundamentos en un repositorio de preprints académicos (arXiv.org) para someter la hipótesis al escrutinio y validación de la comunidad científica interdisciplinaria. Este es el primer paso esencial para, en el futuro, estructurar un proyecto piloto de investigación aplicada con validación preclínica y clínica.
 
 ## Uso Comercial y Colaboración Empresarial
@@ -52,16 +53,21 @@ Transferencia tecnológica
 
 Modelos de regalías
 
-Contacto para licenciamiento:
-eaguayo@migst.cl
-ORCID: 0009-0004-4615-6825
+## Contacto para licenciamiento:
 
-Aviso importante
+-eaguayo@migst.cl
+
+-ORCID: 0009-0004-4615-6825
+
+## Aviso importante
+
 El uso no autorizado con fines comerciales constituirá una violación de los términos de licencia y puede resultar en acciones legales.
 
 ## Licencias
 
 Este proyecto utiliza un sistema de licenciamiento dual:
+- [Licencia Apache 2.0 con Restricción Comercial](LICENSE)
+- [Licencia CC BY-NC-ND 4.0](LICENSE_DOCS.md) 
 
 ## Para código y firmware:
 
