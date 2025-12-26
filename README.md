@@ -1,4 +1,4 @@
-# Osteoflux: Arquitectura para un Sistema de Intervención Ósea Basado en Resonancia
+# **OsteoFlux: Arquitectura para un Sistema de Intervención Ósea Basado en Resonancia**
 
 ## Visión del Proyecto
 
@@ -23,9 +23,13 @@ Servir como marco de referencia conceptual y técnico para futuros proyectos de 
 
 ## Estructura del Repositorio
 
+- `/docs/` – Documentación técnica y conceptual del proyecto.
+- `/concepts/` – Modelos, diagramas de flujo y esquemas del sistema integrado.
+- `/references/` – Artículos científicos y material de investigación relevante.
 - `/docs/` - Documentación técnica y conceptual del proyecto.
-  - [`TECNICO_DXA.md`](docs/TECNICO_DXA.md) - Base técnica sobre Densitometría Ósea (DXA).
-  - *[Otros documentos de arquitectura, especificaciones, etc.]*
+- 
+- [`TECNICO_DXA.md`](docs/TECNICO_DXA.md) - Base técnica sobre Densitometría Ósea (DXA).
+- *[Otros documentos de arquitectura, especificaciones, etc.]*
 - `/concepts/` - Modelos, diagramas de flujo y esquemas del sistema integrado.
 - `/references/` - Artículos científicos y material de investigación relevante.
 
