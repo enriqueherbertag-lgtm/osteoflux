@@ -70,4 +70,7 @@ El uso no autorizado con fines comerciales constituirá una violación de los t�
 **ORCID:** [https://orcid.org/0009-0004-4615-6825](https://orcid.org/0009-0004-4615-6825)
 
 ---
+## Licencia
+El código fuente se distribuye bajo la Licencia Apache 2.0 con restricción de uso comercial.  
+Consulta el archivo [LICENSE](LICENSE) para más detalles.
 *“La ciencia avanza no solo por lo que sabemos, sino por cómo conectamos lo que sabemos.”*
