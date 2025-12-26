@@ -29,3 +29,9 @@ La DXA es una herramienta de diagnóstico puro. Sus "limitaciones" desde un punt
 
 ## 5. Integración en el Modelo Sistémico de Osteoflux
 En la arquitectura conceptual del proyecto, la DXA ocupa la etapa de **INPUT o DIAGNÓSTICO PRECISO**:
+
+Su función es alimentar al sistema central con los datos más fiables posibles para iniciar el proceso.
+
+## 6. Conclusión
+Comprender la tecnología DXA es el primer paso técnico indispensable para el proyecto Osteoflux. Su precisión, estandarización y naturaleza cuantitativa la convierten en la **piedra angular diagnóstica** sobre la que se pretende construir un modelo de intervención física complementario, basado en principios de biofísica y resonancia.
+
