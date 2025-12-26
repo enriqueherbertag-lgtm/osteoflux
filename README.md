@@ -21,9 +21,8 @@ Definir componentes, interfaces y flujos de datos necesarios para que un sistema
 
 Servir como marco de referencia conceptual y técnico para futuros proyectos de investigación, desarrollos piloto y validaciones clínicas.
 
-
-
 ## Estructura del Repositorio
+
 - `/docs/` - Documentación técnica y conceptual del proyecto.
   - [`TECNICO_DXA.md`](docs/TECNICO_DXA.md) - Base técnica sobre Densitometría Ósea (DXA).
   - *[Otros documentos de arquitectura, especificaciones, etc.]*
@@ -35,11 +34,30 @@ Servir como marco de referencia conceptual y técnico para futuros proyectos de 
 El proyecto se encuentra en su fase inicial de modelado conceptual y arquitectónico.
 El objetivo inmediato es publicar estos fundamentos en un repositorio de preprints académicos (arXiv.org) para someter la hipótesis al escrutinio y validación de la comunidad científica interdisciplinaria. Este es el primer paso esencial para, en el futuro, estructurar un proyecto piloto de investigación aplicada con validación preclínica y clínica.
 
+## Uso Comercial y Colaboración Empresarial
 
-## Licencia y Propósito
-Este repositorio y su documentación tienen un propósito de investigación y divulgación científica.
-Todo el material aquí compartido (código, documentación, modelos) se publica bajo una licencia abierta (MIT para software, Creative Commons Attribution 4.0 para documentos) con el fin de fomentar la colaboración, el debate y el avance colectivo del conocimiento.
+Este proyecto se comparte con fines de investigación y avance científico abierto. Sin embargo, **todo uso comercial de la arquitectura, modelos, algoritmos o diseños de OsteoFlux requiere un acuerdo de licencia por escrito con el autor**.
 
+### ¿Qué se considera uso comercial?
+- Desarrollo de productos o dispositivos médicos.
+- Implementación en servicios clínicos con fines de lucro.
+- Integración en plataformas de salud comercial.
+- Cualquier actividad que genere ingresos directa o indirectamente a partir de esta tecnología.
+
+### ¿Interesado en una licencia comercial?
+Contacta al autor para discutir:
+- **Licencias de desarrollo**
+- **Acuerdos de colaboración I+D**
+- **Transferencia tecnológica**
+- **Modelos de regalías**
+
+**Contacto para licenciamiento:**  
+eaguayo@migst.cl  
+[ORCID: 0009-0004-4615-6825](https://orcid.org/0009-0004-4615-6825)
+
+---
+### Aviso importante
+El uso no autorizado con fines comerciales constituirá una violación de los términos de licencia y puede resultar en acciones legales.tame".
 
 ## Acerca del Autor
 
