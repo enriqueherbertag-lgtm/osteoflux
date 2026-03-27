@@ -1,5 +1,7 @@
 ## OsteoFlux: Arquitectura para un Sistema de Intervención Ósea Basado en Resonancia
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 ## Visión del Proyecto
 
 OsteoFlux es un proyecto de investigación aplicada que explora la integración de principios de biofísica, ingeniería y medicina para el desarrollo de un sistema de intervención ósea no invasiva. Nuestra visión es diseñar una arquitectura que, partiendo de un diagnóstico preciso de densidad ósea (mediante DXA/REMS), permita plantear una estabilización del tejido óseo mediante el principio de resonancia mecánica en frecuencias específicas.
