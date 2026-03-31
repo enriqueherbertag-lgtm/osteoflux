@@ -2,11 +2,8 @@
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-## Cita
 
-Si usás Goliat-Orbital en tu investigación, por favor citá:
-
-Aguayo H., E. (2026). Goliat-Orbital: Captura y reciclaje de basura espacial (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/61577644-140a-4a04-99c4-c5c6fb2848d6" />
+<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/c8090819-cc22-421d-ac07-a73941774340" />
 
 
 
