@@ -1,5 +1,4 @@
-## OsteoFlux: Arquitectura para un Sistema de Intervención Ósea Basado en Resonancia
-
+# OsteoFlux: Arquitectura para un Sistema de Intervención Ósea Basado en Resonancia Mecánica (Vibración)
 
 <img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/c8090819-cc22-421d-ac07-a73941774340" />
 
