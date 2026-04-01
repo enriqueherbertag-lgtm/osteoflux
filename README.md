@@ -1,7 +1,5 @@
 ## OsteoFlux: Arquitectura para un Sistema de Intervención Ósea Basado en Resonancia
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-
 
 <img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/c8090819-cc22-421d-ac07-a73941774340" />
 
@@ -71,35 +69,34 @@ Modelos de regalías
 
 El uso no autorizado con fines comerciales constituirá una violación de los términos de licencia y puede resultar en acciones legales.
 
-## Licencias
+## Licencia
 
-Este proyecto utiliza un sistema de licenciamiento dual:
-- [Licencia Apache 2.0 con Restricción Comercial](LICENSE)
-- [Licencia CC BY-NC-ND 4.0](LICENSE_DOCS.md) 
+Copyright © 2026 Enrique Aguayo. Todos los derechos reservados.
 
-## Para código y firmware:
+Este proyecto está protegido por derechos de autor.
 
-Licencia Apache 2.0 con Restricción Comercial
+**PERMITIDO:**
+- Uso no comercial con fines educativos o de investigación.
+- Distribución sin modificación, siempre que se mantenga esta licencia y se dé crédito al autor.
 
-Uso académico y de investigación permitido
+**PROHIBIDO sin autorización expresa por escrito:**
+- Uso comercial (incluyendo, pero no limitado a: ofrecerlo como servicio, SaaS, suscripción, integración en productos que generen ingresos, o cualquier uso que genere beneficio económico directo o indirecto).
+- Modificación para entornos de producción.
+- Distribución de versiones modificadas sin autorización.
 
-Uso comercial requiere autorización expresa
+Para licencias comerciales, soporte técnico, pilotos empresariales o consultas:
+Contacto: **eaguayo@migst.cl**
 
-Para documentación, modelos y contenido:
-Licencia CC BY-NC-ND 4.0
+Cualquier uso fuera de los términos permitidos requiere permiso previo del autor.
 
-## Atribución obligatoria
-
-## No comercial
-
-Sin obras derivadas
-
-¿Interesado en uso comercial?
-Consulta nuestro formulario de solicitud de licencia comercial o revisa los términos generales de uso.
+Las consultas comerciales son bienvenidas y se responderán en un plazo máximo de 7 días hábiles.
 
 ## Acerca del Autor
-- Enrique Aguayo – Investigador independiente e integrador de proyectos complejos. Mi rol es conectar conocimientos de distintos campos (medicina, física, ingeniería de sistemas) y trabajar para transformar conceptos científicos en arquitecturas de proyectos realizables, orquestando los recursos y expertos necesarios.
 
-- ORCID: https://orcid.org/0009-0004-4615-6825
+**Enrique Aguayo H.**  
+Investigador independiente, Mackiber Labs  
+Contacto: eaguayo@migst.cl  
+ORCID: 0009-0004-4615-6825  
+GitHub: @enriqueherbertag-lgtm
 
-Licencia: El código fuente se distribuye bajo la Licencia Apache 2.0 con restricción de uso comercial. Consulta el archivo LICENSE para más detalles.
+Documentación asistida por **Ana (DeepSeek)** , IA para investigación y optimización técnica.
