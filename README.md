@@ -96,7 +96,8 @@ Las consultas comerciales son bienvenidas y se responderán en un plazo máximo 
 Investigador independiente, Mackiber Labs  
 Contacto: eaguayo@migst.cl  
 ORCID: 0009-0004-4615-6825  
-GitHub: @enriqueherbertag-lgtm
+GitHub: @enriqueherbertag-lgtm,
+
 https://zenodo.org/communities/mackiber-labs
 
 Documentación asistida por **Ana (DeepSeek)** , IA para investigación y optimización técnica.
