@@ -6,7 +6,7 @@
 
 **No es magnético. Es vibracional.**
 
-La osteoporosis afecta a millones de personas, especialmente mujeres postmenopáusicas. Los huesos se vuelven frágiles, aumentando el riesgo de fracturas por caídas o golpes leves. Los tratamientos actuales se basan en fármacos (con efectos secundarios) o en ejercicios de carga (que no todos pueden realizar).
+La osteoporosis afecta a millones de personas, especialmente mujeres postmenopausicas. Los huesos se vuelven frágiles, aumentando el riesgo de fracturas por caídas o golpes leves. Los tratamientos actuales se basan en fármacos (con efectos secundarios) o en ejercicios de carga (que no todos pueden realizar).
 
 OsteoFlux explora una alternativa no invasiva: la resonancia mecánica (vibración).
 
@@ -45,7 +45,23 @@ OsteoFlux es un proyecto de investigación aplicada. No es un dispositivo médic
 
 Copyright © 2026 Enrique Aguayo. Todos los derechos reservados.
 
-[Texto de licencia propietaria estándar...]
+Este proyecto está protegido por derechos de autor.
+
+PERMITIDO:
+- Uso no comercial con fines educativos o de investigación.
+- Distribución sin modificación, siempre que se mantenga esta licencia y se dé crédito al autor.
+
+PROHIBIDO sin autorización expresa por escrito:
+- Uso comercial (incluyendo, pero no limitado a: ofrecerlo como servicio, SaaS, suscripción, integración en productos que generen ingresos, o cualquier uso que genere beneficio económico directo o indirecto).
+- Modificación para entornos de producción.
+- Distribución de versiones modificadas sin autorización.
+
+Para licencias comerciales, soporte técnico, pilotos empresariales o consultas:
+Contacto: eaguayo@migst.cl
+
+Cualquier uso fuera de los términos permitidos requiere permiso previo del autor.
+
+Las consultas comerciales son bienvenidas y se responderán en un plazo máximo de 7 días hábiles.
 
 ## Autor
 
