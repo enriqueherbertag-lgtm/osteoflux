@@ -1,4 +1,4 @@
-# Registro de Cambios - Goliat-Son
+# Registro de Cambios 
 
 ## [0.2.0] - 2026-03-24
 
