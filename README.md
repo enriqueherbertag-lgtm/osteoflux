@@ -1,103 +1,58 @@
-# OsteoFlux: Arquitectura para un Sistema de Intervención Ósea Basado en Resonancia Mecánica (Vibración)
+# OsteoFlux: Vibración adaptativa para osteoporosis
 
-<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/c8090819-cc22-421d-ac07-a73941774340" />
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19342233.svg)](https://doi.org/10.5281/zenodo.19342233)
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
+[![EN](https://img.shields.io/badge/English-version-blue.svg)](./README.en.md)
 
+**No es magnético. Es vibracional.**
 
+La osteoporosis afecta a millones de personas, especialmente mujeres postmenopáusicas. Los huesos se vuelven frágiles, aumentando el riesgo de fracturas por caídas o golpes leves. Los tratamientos actuales se basan en fármacos (con efectos secundarios) o en ejercicios de carga (que no todos pueden realizar).
 
+OsteoFlux explora una alternativa no invasiva: la resonancia mecánica (vibración).
 
-## Visión del Proyecto
+## Que hace
 
-OsteoFlux es un proyecto de investigación aplicada que explora la integración de principios de biofísica, ingeniería y medicina para el desarrollo de un sistema de intervención ósea no invasiva. Nuestra visión es diseñar una arquitectura que, partiendo de un diagnóstico preciso de densidad ósea (mediante DXA/REMS), permita plantear una estabilización del tejido óseo mediante el principio de resonancia mecánica en frecuencias específicas.
+El proyecto propone una arquitectura que, partiendo de un diagnóstico preciso de densidad ósea (mediante DXA o REMS), aplique frecuencias de vibración específicas para estimular la estabilización y recuperación del tejido óseo.
 
-## Principio Científico Central
+El sistema se basa en el principio físico de que cada material (incluyendo el hueso) tiene frecuencias de resonancia características. Un hueso sano y uno osteoporótico vibran de forma distinta. OsteoFlux identifica esas frecuencias y aplica vibraciones controladas para promover la regeneración.
 
-El proyecto se fundamenta en el hecho físico de que los materiales, incluidos los tejidos biológicos, presentan frecuencias de resonancia características determinadas por su composición y estructura. Un hueso sano y uno osteoporótico difieren en sus propiedades mecánicas, lo que se traduce en firmas de frecuencia distintas. La hipótesis de trabajo de OsteoFlux es que es posible identificar estas frecuencias resonantes y, mediante la aplicación controlada de vibraciones en rangos específicos, promover la estabilización y recuperación del tejido óseo.
+## Para quién es
 
-## Rol del Proyecto: Integración Sistémica
+- Investigadores en biofísica y terapia por vibración.
+- Desarrolladores de dispositivos médicos no invasivos.
+- Colaboradores interesados en validación preclínica.
 
-OsteoFlux no es un dispositivo médico comercial ni un software clínico. Es un proyecto de arquitectura e integración de sistemas con los siguientes objetivos:
+## Estado actual
 
-Modelar el flujo completo: desde el diagnóstico por imagen, pasando por el análisis de datos biomecánicos, hasta el diseño de una posible interfaz de intervención mecatrónica.
-
-Definir componentes, interfaces y flujos de datos necesarios para que un sistema de estas características pueda ser desarrollado en el futuro por equipos multidisciplinarios (médicos, bioingenieros, físicos, programadores).
-
-Servir como marco de referencia conceptual y técnico para futuros proyectos de investigación, desarrollos piloto y validaciones clínicas.
-
-## Estructura del Repositorio
-
--/docs/          → Documentación técnica y conceptual del proyecto.
--/concepts/      → Modelos, diagramas de flujo y esquemas del sistema integrado.
--/references/    → Artículos científicos y material de investigación relevante.
-
-## Estado Actual y Objetivo
-El proyecto se encuentra en su fase inicial de modelado conceptual y arquitectónico. El objetivo inmediato es publicar estos fundamentos en un repositorio de preprints académicos (arXiv.org) para someter la hipótesis al escrutinio y validación de la comunidad científica interdisciplinaria. Este es el primer paso esencial para, en el futuro, estructurar un proyecto piloto de investigación aplicada con validación preclínica y clínica.
-
-## Uso Comercial y Colaboración Empresarial
-
-Este proyecto se comparte con fines de investigación y avance científico abierto. Sin embargo, todo uso comercial de la arquitectura, modelos, algoritmos o diseños de OsteoFlux requiere un acuerdo de licencia por escrito con el autor.
-
-## ¿Qué se considera uso comercial?
-
-Desarrollo de productos o dispositivos médicos.
-
-Implementación en servicios clínicos con fines de lucro.
-
-Integración en plataformas de salud comercial.
-
-Cualquier actividad que genere ingresos directa o indirectamente a partir de esta tecnología.
-
-## ¿Interesado en una licencia comercial?
-
-Contacta al autor para discutir:
-
-Licencias de desarrollo
-
-Acuerdos de colaboración I+D
-
-Transferencia tecnológica
-
-Modelos de regalías
-
-## Contacto para licenciamiento:
-
--eaguayo@migst.cl
-
--ORCID: 0009-0004-4615-6825
+- Concepto definido.
+- Arquitectura documentada.
+- Modelos y diagramas de flujo.
+- Referencias científicas.
+- Prototipo (pendiente).
+- Validación clínica (pendiente).
 
 ## Aviso importante
 
-El uso no autorizado con fines comerciales constituirá una violación de los términos de licencia y puede resultar en acciones legales.
+OsteoFlux es un proyecto de investigación aplicada. No es un dispositivo médico comercial ni ha sido validado clínicamente. Se comparte para exploración científica y desarrollo colaborativo.
+
+## Proyectos relacionados
+
+- Resonador-432 — terapia por vibración para cáncer
+- CORPUS — sistemas corporales artificiales
+- ENA — interfaz cerebro-máquina
 
 ## Licencia
 
 Copyright © 2026 Enrique Aguayo. Todos los derechos reservados.
 
-Este proyecto está protegido por derechos de autor.
+[Texto de licencia propietaria estándar...]
 
-**PERMITIDO:**
-- Uso no comercial con fines educativos o de investigación.
-- Distribución sin modificación, siempre que se mantenga esta licencia y se dé crédito al autor.
+## Autor
 
-**PROHIBIDO sin autorización expresa por escrito:**
-- Uso comercial (incluyendo, pero no limitado a: ofrecerlo como servicio, SaaS, suscripción, integración en productos que generen ingresos, o cualquier uso que genere beneficio económico directo o indirecto).
-- Modificación para entornos de producción.
-- Distribución de versiones modificadas sin autorización.
+Enrique Aguayo H.
+Mackiber Labs
+Contacto: eaguayo@migst.cl
+ORCID: 0009-0004-4615-6825
+GitHub: @enriqueherbertag-lgtm
 
-Para licencias comerciales, soporte técnico, pilotos empresariales o consultas:
-Contacto: **eaguayo@migst.cl**
-
-Cualquier uso fuera de los términos permitidos requiere permiso previo del autor.
-
-Las consultas comerciales son bienvenidas y se responderán en un plazo máximo de 7 días hábiles.
-
-## Acerca del Autor
-
-**Enrique Aguayo H.**  
-Investigador independiente, Mackiber Labs  
-Contacto: eaguayo@migst.cl  
-ORCID: 0009-0004-4615-6825  
-GitHub: @enriqueherbertag-lgtm,
-
-https://zenodo.org/communities/mackiber-labs
-
-Documentación asistida por **Ana (DeepSeek)** , IA para investigación y optimización técnica.
+Documentación asistida por Ana (DeepSeek), IA para investigación y optimización técnica.
