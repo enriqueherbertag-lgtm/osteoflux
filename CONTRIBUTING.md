@@ -1,6 +1,4 @@
-# Guía de Contribución - Goliat-Orbital
-
-Gracias por tu interés en contribuir a Goliat-Orbital. Este proyecto es el resultado de años de diseño conceptual y documentación técnica. Tu ayuda puede marcar la diferencia para llevarlo a la realidad.
+# Guía de Contribución
 
 ---
 
