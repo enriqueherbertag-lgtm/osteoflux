@@ -35,6 +35,17 @@ El sistema se basa en el principio físico de que cada material (incluyendo el h
 
 OsteoFlux es un proyecto de investigación aplicada. No es un dispositivo médico comercial ni ha sido validado clínicamente. Se comparte para exploración científica y desarrollo colaborativo.
 
+## Aspectos médicos y legales
+
+OsteoFlux es un proyecto de investigación aplicada. No es un dispositivo médico. No ha sido validado clínicamente. No se ofrece como tratamiento ni como reemplazo de terapias establecidas.
+
+**Uso de componentes certificados**: Los actuadores de vibración, sensores y fuentes de alimentación utilizados en el prototipo son componentes comerciales con certificación CE, FCC o RoHS. El proyecto no fabrica dichos componentes, solo los integra.
+
+**No se requiere certificación médica**: Al no ser un dispositivo médico ni ofrecerse como tal, no aplican las normativas ISO 13485 o IEC 60601. El proyecto se comparte con fines educativos y de investigación.
+
+**Advertencia**: Cualquier uso del diseño, código o documentación para aplicaciones clínicas o comerciales queda bajo la exclusiva responsabilidad del usuario. El autor no respalda ni recomienda su uso fuera del ámbito de investigación.
+
+
 ## Proyectos relacionados
 
 - Resonador-432 — terapia por vibración para cáncer
