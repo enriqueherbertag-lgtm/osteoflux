@@ -10,7 +10,7 @@ La osteoporosis afecta a millones de personas, especialmente mujeres postmenopau
 
 OsteoFlux explora una alternativa no invasiva: la resonancia mecánica (vibración).
 
-## Que hace
+## Qué hace
 
 El proyecto propone una arquitectura que, partiendo de un diagnóstico preciso de densidad ósea (mediante DXA o REMS), aplique frecuencias de vibración específicas para estimular la estabilización y recuperación del tejido óseo.
 
@@ -31,10 +31,6 @@ El sistema se basa en el principio físico de que cada material (incluyendo el h
 - Prototipo (pendiente).
 - Validación clínica (pendiente).
 
-## Aviso importante
-
-OsteoFlux es un proyecto de investigación aplicada. No es un dispositivo médico comercial ni ha sido validado clínicamente. Se comparte para exploración científica y desarrollo colaborativo.
-
 ## Aspectos médicos y legales
 
 OsteoFlux es un proyecto de investigación aplicada. No es un dispositivo médico. No ha sido validado clínicamente. No se ofrece como tratamiento ni como reemplazo de terapias establecidas.
@@ -44,7 +40,6 @@ OsteoFlux es un proyecto de investigación aplicada. No es un dispositivo médic
 **No se requiere certificación médica**: Al no ser un dispositivo médico ni ofrecerse como tal, no aplican las normativas ISO 13485 o IEC 60601. El proyecto se comparte con fines educativos y de investigación.
 
 **Advertencia**: Cualquier uso del diseño, código o documentación para aplicaciones clínicas o comerciales queda bajo la exclusiva responsabilidad del usuario. El autor no respalda ni recomienda su uso fuera del ámbito de investigación.
-
 
 ## Proyectos relacionados
 
@@ -58,28 +53,25 @@ Copyright © 2026 Enrique Aguayo. Todos los derechos reservados.
 
 Este proyecto está protegido por derechos de autor.
 
-PERMITIDO:
+**PERMITIDO:**
 - Uso no comercial con fines educativos o de investigación.
 - Distribución sin modificación, siempre que se mantenga esta licencia y se dé crédito al autor.
 
-PROHIBIDO sin autorización expresa por escrito:
+**PROHIBIDO sin autorización expresa por escrito:**
 - Uso comercial (incluyendo, pero no limitado a: ofrecerlo como servicio, SaaS, suscripción, integración en productos que generen ingresos, o cualquier uso que genere beneficio económico directo o indirecto).
 - Modificación para entornos de producción.
 - Distribución de versiones modificadas sin autorización.
 
-Para licencias comerciales, soporte técnico, pilotos empresariales o consultas:
-Contacto: eaguayo@migst.cl
+Para licencias comerciales, soporte técnico, pilotos empresariales o consultas: Contacto: eaguayo@migst.cl
 
-Cualquier uso fuera de los términos permitidos requiere permiso previo del autor.
-
-Las consultas comerciales son bienvenidas y se responderán en un plazo máximo de 7 días hábiles.
+Cualquier uso fuera de los términos permitidos requiere permiso previo del autor. Las consultas comerciales son bienvenidas y se responderán en un plazo máximo de 7 días hábiles.
 
 ## Autor
 
-Enrique Aguayo H.
-Mackiber Labs
-Contacto: eaguayo@migst.cl
-ORCID: 0009-0004-4615-6825
+**Enrique Aguayo H.**  
+Mackiber Labs  
+Contacto: eaguayo@migst.cl  
+ORCID: 0009-0004-4615-6825  
 GitHub: @enriqueherbertag-lgtm
 
-Documentación asistida por Ana (DeepSeek), IA para investigación y optimización técnica.
+*Documentación asistida por Ana (DeepSeek), IA para investigación y optimización técnica.*
